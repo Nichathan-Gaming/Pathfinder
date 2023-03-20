@@ -3,7 +3,7 @@ The privacy policy and License for Nichathan Gaming's Pathfinder game on the Goo
 
 ## Privacy Policy
 
-I hereby state, to the best of my knowledge and belief, that this program only collects data from [Unity advertisements](https://docs.unity.com/ads/manual/GoogleDataSafety?fbclid=IwAR1vBVISRG3QhdrSSQ9ndmiK4hwV9xCBW-ffh2Lrn03Pm56qSxVHFihCPL0) and for the user profile. This app only collects advertisement data during advertisements and the data is only collected inside of the advertisement. The app itself does collect user data shown in the leaderboards such as your average move count for a match or the number of levels you completed in a timed match. To the best of my knowledge, this app does not collect data if the users device is not connected to the internet.
+I hereby state, to the best of my knowledge and belief, that this program only collects data from [Unity advertisements](https://docs.unity.com/ads/manual/GoogleDataSafety?fbclid=IwAR1vBVISRG3QhdrSSQ9ndmiK4hwV9xCBW-ffh2Lrn03Pm56qSxVHFihCPL0). This app only collects advertisement data during advertisements and the data is only collected inside of the advertisement. To the best of my knowledge, this app does not collect data if the users device is not connected to the internet.
 
 ## License
 Nichathan Gaming Software License - Version 1.0 - February 3rd, 2023
